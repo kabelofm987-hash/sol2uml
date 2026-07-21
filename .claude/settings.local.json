@@ -1,5 +1,5 @@
 {
-    "permissions": {
+    "permissions": {contract.address:TXJgMdjVX5dKiQaUi9QobwNxtSQaFqccvd}
         "allow": [
             "WebSearch",
             "Bash(npm run build:*)",
